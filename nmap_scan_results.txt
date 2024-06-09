@@ -1,0 +1,9 @@
+Host : 127.0.0.1
+State : up
+Protocol : tcp
+Port : 135	 State : open	 Service : msrpc
+Port : 445	 State : open	 Service : microsoft-ds
+Port : 808	 State : open	 Service : mc-nmf
+Port : 3000	 State : open	 Service : http
+Port : 5357	 State : open	 Service : http
+Port : 9001	 State : open	 Service : http
